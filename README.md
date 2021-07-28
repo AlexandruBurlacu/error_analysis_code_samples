@@ -1,4 +1,4 @@
-Supporting code for the [Going beyond simple error analysis of ML systems](https://alexandruburlacu.github.io/posts/2021-06-15-ml-error-analysis) blog post.
+Supporting code for the [Going beyond simple error analysis of ML systems](https://alexandruburlacu.github.io/posts/2021-07-26-ml-error-analysis) blog post.
 
 You can run each notebook in Colab or on your own. Just beware that Colab has a lot of the libraries pre-installed, but the versions can differ. For this reason I highly recommend running this line before launching all other code:
 `pip install -r https://raw.githubusercontent.com/AlexandruBurlacu/error_analysis_code_samples/master/requirements.txt`
